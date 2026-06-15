@@ -18,7 +18,7 @@ O objetivo principal é manter meu histórico acadêmico organizado e demonstrar
   * 📝 [Lista de Exercicio 4](<./Sistemas Operacional/Lista de exercicios SO 4 (2).docx>) - Exercicios Linux.
 * **Projeto Integrador** (Prof. Julio)
   * 📄 [Documentação Linguagem e FrameWork](<Projeto Integrador/Linguagens e Frameworks.docx>) - Documento sobre Linguagens e FrameWork.
-  * 📄 [Documentação Linguagem e FrameWork](<Projeto Integrador/Atividade Pesquisa e Análise de Sistemas de Questionários Existentes (edição final).docx>) - Análise de Sistemas de Questionarios Existentes.
+  * 📄 [Documentação Análise de Sistemas de Questionarios](<Projeto Integrador/Atividade Pesquisa e Análise de Sistemas de Questionários Existentes (edição final).docx>) - Análise de Sistemas de Questionarios Existentes.
 ---
 
 
