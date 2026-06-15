@@ -11,7 +11,7 @@ O objetivo principal é manter meu histórico acadêmico organizado e demonstrar
 ### 🏛️ [1º Semestre - 2026]
 
 * **Algoritmo e Lógica de Programação** (Prof. Gisele)
-  * 📄 [Lista de Exercícios 1](AULAS/Algoritmo e Lógica de Programação/) - Resolução de exercícios práticos sobre [Tema].
+  * 📄 Documentação Gerador de Senha(<Algoritmo e Lógica de Programação/Documentação de GeradordeSenha.docx>) - Resolução de exercícios práticos sobre [Tema].
   * 📊 [Trabalho Prático Bimestral](./caminho) - Atividade avaliativa entregue em [Mês].
 * **[Nome da Disciplina 2]** (Prof. [Nome do Professor])
   * 📝 [Relatório de Laboratório](./caminho) - Documentação técnica da atividade de laboratório.
