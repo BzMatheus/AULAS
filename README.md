@@ -24,6 +24,8 @@ O objetivo principal é manter meu histórico acadêmico organizado e demonstrar
   * 📄 [Documentação Backlog](<Projeto Integrador/BackLogAtt (2).docx>) - Backlog
 * **Arquitetura e Organização Computacional** (Prof. Maciel)
   * 📊 [Seminario Sistema Embarcados/Computação Ubíqua](<./Arquitetura e Organização Computacional/Seminário de Arquitetura e Organização de Computadores_compressed.pdf>) - Sistema Embarcado/Computação Ubíqua
+* **Engenharia de Software** (Prof. Alciano)
+  * 📄 [Documentação Sistema Web](<Engenharia de Software/Trabalho de Projeto Integrador (1).docx>) - Documento desenvolvido em Eng Software
 ---
 
 
