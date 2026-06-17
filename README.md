@@ -19,6 +19,9 @@ O objetivo principal é manter meu histórico acadêmico organizado e demonstrar
 * **Projeto Integrador** (Prof. Julio)
   * 📄 [Documentação Linguagem e FrameWork](<Projeto Integrador/Linguagens e Frameworks.docx>) - Documento sobre Linguagens e FrameWork.
   * 📄 [Documentação Análise de Sistemas de Questionarios](<Projeto Integrador/Atividade Pesquisa e Análise de Sistemas de Questionários Existentes (edição final).docx>) - Análise de Sistemas de Questionarios Existentes.
+  * 📄 [Documentação Pitch](<Projeto Integrador/Pitch Sistema PROJ INT (1).pptx>) - Pitch Sistema PROJ INT
+  * 📄 [Documentação Visão de Escopo](<Projeto Integrador/Visão de Escopo Sistema Questionário.docx>) - Visão de Escopo Sistema Questionário
+  * 📄 [Documentação Backlog](<Projeto Integrador/BackLogAtt (2).docx>) - Backlog
 * **Arquitetura e Organização Computacional** (Prof. Maciel)
   * 📊 [Seminario Sistema Embarcados/Computação Ubíqua](<./Arquitetura e Organização Computacional/Seminário de Arquitetura e Organização de Computadores_compressed.pdf>) - Sistema Embarcado/Computação Ubíqua
 ---
